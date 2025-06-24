@@ -1,25 +1,9 @@
-## Hi there 👋
-
-<!--
-**pateladiti0401/pateladiti0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Aditi Patel 👋
 
 ### 👩‍💻 About Me
-I'm a passionate software developer and Master of Applied Computing student at the University of Windsor.  
-I love building efficient and scalable full-stack applications, exploring machine learning, and solving complex problems.
-
+I'm a recent Master of Applied Computing graduate passionate about software development and problem-solving.  
+I enjoy building full-stack applications and exploring data science & machine learning.
+s
 ---
 
 ### 🚀 Skills
@@ -34,6 +18,13 @@ I love building efficient and scalable full-stack applications, exploring machin
 ### 📊 GitHub Stats
 
 ![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pateladiti0401&show_icons=true&hide_border=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pateladiti0401&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pateladiti0401&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=pateladiti0401)
+
 
 ---
 
