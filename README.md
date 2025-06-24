@@ -1,43 +1,40 @@
-# Hi there, I'm Aditi Patel 👋
+# Hi, I'm Aditi Patel 👋
 
-### 👩‍💻 About Me
-I'm a recent Master of Applied Computing graduate passionate about software development and problem-solving.  
-I enjoy building full-stack applications and exploring data science & machine learning.
-s
+I'm a recent Master of Applied Computing graduate passionate about building efficient software solutions and exploring machine learning.
+
+I enjoy working on full-stack development, data analysis, and automation projects.
+
 ---
 
-### 🚀 Skills
+### 🛠 Skills
 
-- **Languages:** Python, JavaScript, C, Java, SQL, Swift, Kotlin  
-- **Frontend:** React, HTML, CSS, Tailwind CSS, SwiftUI  
+- **Languages:** Python, Java, JavaScript, C, SQL, Swift, Kotlin  
+- **Frontend:** React, HTML, CSS, SwiftUI  
 - **Backend:** Node.js, Express, Flask, MongoDB, PostgreSQL  
 - **Tools & Platforms:** Git, Docker, Jenkins, Power BI, CI/CD pipelines  
 
 ---
 
-### 📊 GitHub Stats
+### 📚 Featured Projects
 
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=pateladiti0401&show_icons=true&hide_border=true&count_private=true&theme=radical)
+- [Chronic Disease Prediction](https://github.com/pateladiti0401/Chronic_disease_prediction) — Early detection system for heart, kidney, and diabetes diseases using ML and Power BI.  
+- [LearnLink](https://github.com/pateladiti0401/LearnLink) — Platform connecting learners and educators for live tutoring and courses.  
+- [MicroShell](https://github.com/pateladiti0401/MicroShell-A-Minimalist-Unix-Shell) — Lightweight Unix-like shell built in C supporting piping and signals.  
+- [PricePal Food Comparison](https://github.com/pateladiti0401/PricePal-Food-Comparison-App) — Java application comparing food prices from multiple sources with recommendations.
+
+---
+
+### 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pateladiti0401&layout=compact&hide_border=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pateladiti0401&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pateladiti0401)
-
-
 ---
 
-### 🔗 Connect with me
+### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditipatel0401)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=about.me)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:patel4c9@uwindsor.ca)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditipatel0401)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:pateladiti542@gmail.com)  
 
 ---
-
-### ⚡ Fun Fact
-
-_"Code is like humor. When you have to explain it, it’s bad."_  
-– Cory House
-
